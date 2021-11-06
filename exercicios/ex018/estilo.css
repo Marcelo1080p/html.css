@@ -1,0 +1,31 @@
+body {
+    background-image: linear-gradient(to right, rgba(164, 49, 218, 0.87), rgb(230, 12, 238), rgb(161, 27, 105));
+    font-family: sans-serif;
+    
+}
+
+
+
+.principal {
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    width: 400px;
+    margin-top: 100px;
+    padding: 80px;
+    border-radius: 10px;
+}
+
+.h1 {
+    color: black
+    
+}
+
+.login {
+    margin-bottom: 1
+}
+
+.login {
+    margin-bottom: 10px;
+    padding: 20px;
+}
